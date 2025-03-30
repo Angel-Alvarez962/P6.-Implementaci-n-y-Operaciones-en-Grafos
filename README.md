@@ -86,7 +86,13 @@ Menú:
 3. Recorrer BFS
 4. Recorrer DFS
 5. Salir
+
 Selecciona una opción: 3
 Nodo de inicio para BFS: A
 BFS Recorrido:
 A C
+
+Citas:
+nicosiored. (2018, November 23). Grafos - 41 - Estructuras de Datos en C# [Video]. YouTube. https://www.youtube.com/watch?v=EBnJ9_4gHpM
+
+Studocu. (n.d.). Grafos en C# - TEMA 4 GRAFOS | Página 1 Facultad: Ingeniería en Informática Escuela: Instituto - Studocu. https://www.studocu.com/es-mx/document/bachillerato-tecnico-del-golfo-de-mexico-plantel-cosamaloapan/tecnologia-de-informacion-y-comunicacion/grafos-en-c/111307335
